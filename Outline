@@ -1,0 +1,102 @@
+
+1、java基础，主要包括集合、IO、多线程
+2、JVM虚拟机和相关优化
+3、SpringBoot、Mybatis，SpringCloud相关技术栈
+4、Mysql，PostgreSQL区别
+4、Kafka、rabbitmq等相关消息队列
+5、Redis缓存
+6、系统分析，设计，DDD,OOA
+7、设计模式
+8、python---django--celery--
+9、前端-页面：HTML，css，脚本：js，vue
+10、业务理解：银行核心系统-----，支付平台-----，清结算系统-----，风控系统-----
+11、简历所写项目功能和知识点整理-----
+12、项目管理：开发流程和模式方面的知识---，pmp考试项目---
+13、团队管理：左耳朵耗子文章---
+14、个人软素质
+
+
+1、java基础（Kotlin），主要包括集合、IO、多线程
+常用集合，数组，链表List，HashMap
+IO:网络IO、linux I/O模型，epoll，select/channel,文件IO
+多线程：线程池类型，运行本质，设置参数
+融合基础知识：数据结构、计算机网络、操作系统
+Netty通信框架
+2、JVM虚拟机和相关优化
+虚拟机相关基本知识，虚拟机优化，虚拟机参数设置
+OSGI\Apache felix\tomcat
+3、SpringBoot、Mybatis，SpringCloud相关技术栈
+Spring框架核心组件，对应功能，启动流程
+mybatis组件
+springcloud gateway，feignclient，istio
+spring-security安全框架、Shrio
+5-分布式组件-生产微服务
+5-分布式组件-1分布式注册中心：Eureka，consul--，zookeeper-----，nacos----，etcd--
+5-分布式组件-2分布式配置中心：apollo--，nacos-----，disconf--，diamond，Spring Cloud Config--,ConfigMap(K8S)
+5-分布式组件-3服务调用负载均衡：Feign(Ribbon+Hystrix)-----，Ribbon-----，Istio-----
+5-分布式组件-4微服务熔断降级：Hystrix-----，Istio-----
+5-分布式组件-4微服务限流:Sentinel-----
+5-分布式组件-5微服务链路追踪：skywalking---，pinpoint---，zipkin+Spring sleuth
+5-分布式组件-6微服务网关路由：zuul，kong---，springcloud gateway-----
+5-分布式组件-7微服务权限认证：Oauth2.0-----，shiro---，spring-security-----
+5-分布式组件-8微服务消息总线：springcloud bus---，springcloud stream---
+5-分布式组件-9消息队列：kafka-----，rabbitmq-----，rocketmq---,Pulsar--
+5-分布式组件-10分布式存储：关系型：Mysql-----，Oracle--，Postgresql--，SQLServer，非关系型：文档型:MongoDB--，Elasticsearch--；Key-value类型:Redis-----,Memcached,leveldb；NewSQL:TiDB,OceanBase,guass,列式数据库：Bigtable、HBase--、Cassandra--，图形数据库：Neo4j、InfoGrid
+5-分布式组件-11微服务监控：prometheus-----，alert manage-----, grafana-----
+5-分布式组件-12分布式定时任务：quartz，elastic-job---，xxl-job-----
+5-分布式组件-13分布式日志搜索系统：elasticsearch+logstach+kibana-----，filebeat---，packetbeat---，log4j
+5-分布式组件-14系统负载均衡：OpenResty (Nginx+LUA)-----，nginx+LVS+keepalive-----，Haproxy---，supervise---，
+5-分布式组件-14服务容器：Docker，tomcat，apache，weblogic，
+
+Dubbo服务治理
+4、Mysql，PostgreSQL区别
+mysql，优化相关，sql优化，分库分表sharding-sphere-----，mycat，数据同步canal-----，datax---
+PostgreSQL特性
+4、Kafka、rabbitmq、ActiveMQ等相关消息队列
+kafka架构，基本组成，高性能特点，常见问题，设置优化
+5、Redis缓存
+数据结构，使用场景
+常见问题，部署方案，codis
+6、系统分析，设计，
+分布式系统相关理论：CAP/BASE/KISS/SMART
+DDD,OOA，UML
+
+一致性算法：paxois-----，zab-----，raft----- gossip
+软考架构架构分析设计方法
+DD设计方法
+常见方案：
+分布式事务：seata-----，saga-----，atomikos
+分布式锁：mysql----，redission-----，zookeeper
+幂等操作
+id生成
+单点登录
+秒杀系统
+扫二维码登录
+短链接方案
+微信抢红包---，IM系统--，智能个性化推荐系统，智能搜索引擎
+
+架构组成
+服务部署：K8S,DOCKER,Spinnaker,Rancher
+微服务监控：prometheus-----，alert manage-----, grafana
+分布式定时任务：quartz，elastic-job---，xxl-job
+分布式日志搜索系统：elasticsearch+logstach+kibana-----，filebeat---，packetbeat
+系统负载均衡：OpenResty (Nginx+LUA)-----，nginx+LVS+keepalive-----，Haproxy---，supervise
+服务容器：Docker/K8S，tomcat，apache，weblogic
+
+DEVOPS
+GIT、MAVEN、gradle、
+
+Linux系统
+
+7、设计模式
+设计模式具体模式的描述，实现方案，应用场景
+
+8、python---django--celery--
+
+9、前端-页面：HTML，css，脚本：js，vue
+
+10、业务理解：银行核心系统-----，支付平台-----，清结算系统-----，风控系统-----
+11、简历所写项目功能和知识点整理-----
+12、项目管理：开发流程和模式方面的知识---，pmp考试项目---
+13、团队管理：左耳朵耗子文章---
+14、个人软素质
